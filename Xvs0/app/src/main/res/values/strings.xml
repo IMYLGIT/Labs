@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">krestikiNoliki</string>
+    <string name="x_vs_0">X vs 0</string>
+    <string name="begin">Begin</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_a_popup_window">This is a popup window.</string>
+</resources>
